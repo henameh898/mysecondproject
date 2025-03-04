@@ -6,7 +6,7 @@ public class codingpractice {
 		// TODO Auto-generated method stub
 		System.out.println("hello class");
 		System.out.println(20-10);
-
+System.out.println("done the practice");
 	}
 
 }
