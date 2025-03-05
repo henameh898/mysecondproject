@@ -7,6 +7,7 @@ public class codingpractice {
 		System.out.println("hello class");
 		System.out.println(20-10);
 System.out.println("done the practice");
+System.out.println("hello jenkins, this is the first task");
 	}
 
 }
